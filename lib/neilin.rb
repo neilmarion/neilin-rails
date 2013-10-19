@@ -1,0 +1,1 @@
+require 'neilin/rails/engine'
